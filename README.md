@@ -1,7 +1,5 @@
 # MedEZ
 
-A project made with ❤️ by
-
 ### Problem Statement
 
 In today's world, people face the issue of having to compare prices of medicines in their prescriptions across various online platforms, which can be a hectic task especially when dealing with multiple medications. This problem becomes even more significant when expensive medications need to be purchased, as it could result in potential savings of up to 80% in some cases. From identifying the names of the medications in a prescription to actually purchasing them from an online pharmacy and keeping track of their dosage, the process can be overwhelming for a patient, and there is a need to simplify it.
