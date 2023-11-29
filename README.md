@@ -55,7 +55,7 @@ In today's world, people face the issue of having to compare prices of medicines
 To install the application, follow these steps:
 
 ```
-git clone https://github.com/milan0027/MedEZ/
+git clone https://github.com/p-lay-er/Webbid.git
 ```
 
 ```
